@@ -19,8 +19,8 @@ body {
   margin-top: 67px;
   background: rgba(223, 218, 218, 0);
   box-shadow: 0 8px 32px 0 rgba(53, 133, 238, 0.37);
-  backdrop-filter: blur(3.5px);
   -webkit-backdrop-filter: blur(3.5px);
+  backdrop-filter: blur(3.5px);
   border-radius: 10px;
   border: 1px solid rgba(247, 247, 247, 0.18);
 }
